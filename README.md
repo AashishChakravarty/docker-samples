@@ -14,6 +14,12 @@ This will build the Dockerfile and tag the resulting image as `my-app`. You can 
 - [Elixir](elixir/Dockerfile)
 - [Python](python/)
   - [Django](python/django)
+- [JavaScript](javascript/)
+  - [React](javascript/react)
+    - [Dockerfile.dev](javascript/react/Dockerfile.dev)
+    - [Dockerfile.prod](javascript/react/Dockerfile.prod)
+
+
 
 ## Contributing
 We welcome contributions to this repository! If you would like to contribute a Dockerfile for a new language or framework, or if you have found a bug in an existing Dockerfile, please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
